@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "0810999",
-    "database": "todos-dev",
+    "database": "todos",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
@@ -10,7 +10,7 @@
   "test": {
     "username": "postgres",
     "password": "0810999",
-    "database": "todos-test",
+    "database": "todos",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
